@@ -1,8 +1,8 @@
-# Privacy Policy for [App Name]
+# Privacy Policy for Sunly
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 05/24/2025
 
-Thank you for using **[App Name]** ("we", "our", or "us"). We are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our iOS app.
+Thank you for using **Sunly** ("we", "our", or "us"). We are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our iOS app.
 
 By using the app, you agree to the terms outlined in this policy.
 
@@ -83,6 +83,6 @@ We may update this Privacy Policy periodically. Any changes will be posted on th
 
 If you have any questions or concerns, feel free to reach out:
 
-**Email:** [your contact email]  
-**Company Name:** [Your Company Name]  
-**Address:** [Your Company Address]
+**Email:** contact@sunly.app  
+**Owner:** Thomas Carayol
+**Address:** 4 rue Paul Dukas, 34090 Montpellier
