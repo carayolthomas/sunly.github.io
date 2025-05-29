@@ -1,88 +1,88 @@
-# Privacy Policy for Sunly (fr)
+# Politique de Confidentialité de Sunly
 
-**Effective Date:** 05/24/2025
+**Date d’entrée en vigueur :** 24/05/2025
 
-Thank you for using **Sunly** ("we", "our", or "us"). We are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our iOS app.
+Merci d’utiliser **Sunly** (« nous », « notre » ou « nos »). Nous nous engageons à protéger votre vie privée. Cette politique de confidentialité explique comment vos informations sont collectées, utilisées et divulguées lorsque vous utilisez notre application iOS.
 
-By using the app, you agree to the terms outlined in this policy.
+En utilisant l’application, vous acceptez les conditions décrites dans cette politique.
 
 ---
 
-## 1. Information We Collect
+## 1. Informations que nous collectons
 
-We collect minimal personal data and only what is necessary to provide the core functionality of the app.
+Nous collectons uniquement les données personnelles minimales nécessaires au bon fonctionnement de l’application.
 
-### a. Location Data
+### a. Données de localisation
 
-- We request access to your device’s location to fetch local weather data using Apple’s **WeatherKit**.
-- **We do not store or transmit your location to our servers**. Location data is passed directly to Apple’s WeatherKit API.
-- You can control location permissions at any time through your device settings.
+- Nous demandons l’accès à la localisation de votre appareil afin d’obtenir des données météorologiques locales via **WeatherKit** d’Apple.
+- **Nous ne stockons ni ne transmettons votre localisation à nos serveurs**. Les données de localisation sont transmises directement à l’API WeatherKit d’Apple.
+- Vous pouvez à tout moment gérer les autorisations de localisation dans les réglages de votre appareil.
 
-### b. Analytics & Crash Reporting (via Firebase)
+### b. Analyses et rapports de crash (via Firebase)
 
-We use **Firebase**, a service provided by Google, to collect anonymized analytics and crash reports. This helps us understand app usage and improve performance.
+Nous utilisons **Firebase**, un service fourni par Google, pour collecter des analyses anonymisées et des rapports de crash. Cela nous aide à comprendre l’usage de l’application et à améliorer ses performances.
 
-Firebase may collect:
-- Device and app information (e.g., model, OS version, crashes)
-- General usage patterns and event metrics (no personally identifiable information)
-- IP address (used temporarily for analytics purposes)
+Firebase peut collecter :
+- Des informations sur l’appareil et l’application (par exemple, modèle, version du système d’exploitation, crashs)
+- Des tendances générales d’utilisation et des métriques d’événements (aucune information personnellement identifiable)
+- L’adresse IP (utilisée temporairement à des fins d’analyse)
 
-You can learn more about Firebase’s data practices here:  
+Vous pouvez en savoir plus sur les pratiques de gestion des données de Firebase ici :  
 [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ---
 
-## 2. How We Use Your Information
+## 2. Comment nous utilisons vos informations
 
-We use the collected information to:
+Les informations collectées sont utilisées pour :
 
-- Provide weather data relevant to your location
-- Monitor and improve the app’s stability and performance
-- Understand user engagement and fix issues
+- Fournir des données météorologiques pertinentes selon votre localisation
+- Surveiller et améliorer la stabilité et les performances de l’application
+- Comprendre l’engagement des utilisateurs et corriger les problèmes
 
-We do **not** use your data for advertising or tracking purposes.
-
----
-
-## 3. Data Storage
-
-We **do not store any user data** on our own servers. All analytics and crash data are processed and stored by Firebase in accordance with their privacy policies.
+Nous n’utilisons **pas** vos données à des fins publicitaires ou de suivi.
 
 ---
 
-## 4. Data Sharing
+## 3. Stockage des données
 
-We do **not sell**, trade, or rent your personal information. Data may be shared only with:
-
-- **Apple**, for providing weather data via WeatherKit  
-- **Google Firebase**, for app performance monitoring and crash analytics  
-- **Authorities**, only if required by law
+Nous **ne stockons aucune donnée utilisateur** sur nos propres serveurs. Toutes les données d’analyse et de crash sont traitées et stockées par Firebase conformément à leurs politiques de confidentialité.
 
 ---
 
-## 5. Your Choices
+## 4. Partage des données
 
-- You can opt out of sharing location data by disabling location permissions in iOS settings.
-- You can disable analytics and crash reporting through your iOS device’s privacy settings under “Analytics & Improvements”.
+Nous ne **vendons**, n’échangeons ni ne louons vos informations personnelles. Les données peuvent être partagées uniquement avec :
 
----
-
-## 6. Children’s Privacy
-
-Our app is **not intended for children under 13**, and we do not knowingly collect information from children.
+- **Apple**, pour fournir les données météorologiques via WeatherKit  
+- **Google Firebase**, pour le suivi des performances et les analyses de crash  
+- **Les autorités**, uniquement si la loi l’exige
 
 ---
 
-## 7. Changes to This Policy
+## 5. Vos choix
 
-We may update this Privacy Policy periodically. Any changes will be posted on this page with an updated effective date.
+- Vous pouvez refuser le partage des données de localisation en désactivant les autorisations correspondantes dans les réglages iOS.
+- Vous pouvez désactiver les analyses et les rapports de crash via les réglages de confidentialité de votre appareil iOS, dans la section « Analyses et améliorations ».
 
 ---
 
-## 8. Contact Us
+## 6. Confidentialité des enfants
 
-If you have any questions or concerns, feel free to reach out:
+Notre application **n’est pas destinée aux enfants de moins de 13 ans**, et nous ne collectons pas sciemment d’informations les concernant.
 
-**Email:** contact@sunly.app  
-**Owner:** Thomas Carayol
-**Address:** 4 rue Paul Dukas, 34090 Montpellier
+---
+
+## 7. Modifications de cette politique
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Toute modification sera publiée sur cette page avec une nouvelle date d’entrée en vigueur.
+
+---
+
+## 8. Contactez-nous
+
+Si vous avez des questions ou des préoccupations, n’hésitez pas à nous contacter :
+
+**Email :** contact@sunly.app  
+**Propriétaire :** Thomas Carayol  
+**Adresse :** 4 rue Paul Dukas, 34090 Montpellier
