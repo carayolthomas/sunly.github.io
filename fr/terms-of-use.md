@@ -1,80 +1,80 @@
-# Terms of Use for Sunly (fr)
+# Conditions d’Utilisation de Sunly
 
-**Effective Date:** 05/24/2025
+**Date d’entrée en vigueur :** 24/05/2025
 
-Welcome to **Sunly** (“App”, “we”, “our”, or “us”). These Terms of Use (“Terms”) govern your use of our iOS application. By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
-
----
-
-## 1. Use of the App
-
-You may use the App for your personal, non-commercial use only and in compliance with all applicable laws. You agree not to:
-
-- Reverse engineer, modify, or create derivative works of the App
-- Use the App for any unlawful, harmful, or abusive purposes
-- Interfere with the operation or security of the App
+Bienvenue sur **Sunly** (« l’Application », « nous », « notre » ou « nos »). Les présentes Conditions d’Utilisation (« Conditions ») régissent votre utilisation de notre application iOS. En téléchargeant, accédant ou utilisant l’Application, vous acceptez d’être lié par ces Conditions. Si vous n’acceptez pas ces Conditions, veuillez ne pas utiliser l’Application.
 
 ---
 
-## 2. User Location
+## 1. Utilisation de l’Application
 
-The App may request access to your device’s **location** to provide localized weather information via Apple’s **WeatherKit**. Location data is used only for this purpose and is not stored by us.
+Vous pouvez utiliser l’Application uniquement à des fins personnelles et non commerciales, et dans le respect de toutes les lois applicables. Vous vous engagez à ne pas :
+
+- Désassembler, décompiler, modifier ou créer des œuvres dérivées de l’Application  
+- Utiliser l’Application à des fins illégales, nuisibles ou abusives  
+- Perturber le fonctionnement ou la sécurité de l’Application
 
 ---
 
-## 3. Analytics and Crash Reports
+## 2. Localisation de l’utilisateur
 
-We use **Firebase** (by Google) to collect anonymized analytics and crash data to improve the App’s performance. For more information on how Firebase handles data, visit:  
+L’Application peut demander l’accès à la **localisation** de votre appareil pour fournir des informations météorologiques locales via **WeatherKit** d’Apple. Les données de localisation sont utilisées uniquement à cette fin et ne sont pas stockées par nous.
+
+---
+
+## 3. Analyses et rapports de crash
+
+Nous utilisons **Firebase** (par Google) pour collecter des données d’analyse et de crash anonymisées afin d’améliorer les performances de l’Application. Pour en savoir plus sur la manière dont Firebase traite les données, visitez :  
 [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ---
 
-## 4. Intellectual Property
+## 4. Propriété intellectuelle
 
-All content, features, and functionality of the App are the property of Thomas Carayol or its licensors and are protected by applicable intellectual property laws. You may not copy, reproduce, or distribute any part of the App without prior written consent.
-
----
-
-## 5. Disclaimers
-
-The App is provided **"as is"** and **"as available"**, without warranties of any kind, either express or implied. We do not guarantee:
-
-- Accuracy of weather data or analytics
-- Error-free operation or availability of the App
-- Compatibility with all devices or systems
-
-You use the App at your own risk.
+Tous les contenus, fonctionnalités et éléments de l’Application sont la propriété de Thomas Carayol ou de ses concédants, et sont protégés par les lois applicables en matière de propriété intellectuelle. Vous ne pouvez copier, reproduire ou distribuer aucune partie de l’Application sans autorisation écrite préalable.
 
 ---
 
-## 6. Limitation of Liability
+## 5. Exclusions de garantie
 
-To the fullest extent permitted by law, Thomas Carayol shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data, revenue, or profits, arising from your use of the App.
+L’Application est fournie **« telle quelle »** et **« selon disponibilité »**, sans aucune garantie, expresse ou implicite. Nous ne garantissons pas :
 
----
+- L’exactitude des données météorologiques ou des analyses  
+- Le fonctionnement sans erreur ni interruption de l’Application  
+- La compatibilité avec tous les appareils ou systèmes
 
-## 7. Termination
-
-We reserve the right to suspend or terminate your access to the App at any time and for any reason, including violation of these Terms.
-
----
-
-## 8. Changes to These Terms
-
-We may update these Terms from time to time. Continued use of the App after any changes constitutes acceptance of the new Terms. Please review this page periodically for updates.
+Vous utilisez l’Application à vos propres risques.
 
 ---
 
-## 9. Governing Law
+## 6. Limitation de responsabilité
 
-These Terms shall be governed by and construed in accordance with the laws of France, without regard to its conflict of law provisions.
+Dans les limites autorisées par la loi, Thomas Carayol ne pourra être tenu responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, y compris la perte de données, de revenus ou de bénéfices, résultant de votre utilisation de l’Application.
 
 ---
 
-## 10. Contact Us
+## 7. Résiliation
 
-If you have any questions about these Terms, please contact us:
+Nous nous réservons le droit de suspendre ou de résilier votre accès à l’Application à tout moment, pour quelque raison que ce soit, notamment en cas de violation des présentes Conditions.
 
-**Email:** contact@sunly.app  
-**Company Name:** Thomas Carayol  
-**Address:** 4 rue Paul Dukas, 34090 Montpellier
+---
+
+## 8. Modifications des présentes Conditions
+
+Nous pouvons mettre à jour ces Conditions de temps en temps. Le fait de continuer à utiliser l’Application après toute modification constitue une acceptation des nouvelles Conditions. Veuillez consulter régulièrement cette page pour rester informé.
+
+---
+
+## 9. Droit applicable
+
+Ces Conditions sont régies et interprétées conformément au droit français, sans égard aux règles de conflit de lois.
+
+---
+
+## 10. Nous contacter
+
+Si vous avez des questions concernant ces Conditions, veuillez nous contacter :
+
+**Email :** contact@sunly.app  
+**Nom de l’entreprise :** Thomas Carayol  
+**Adresse :** 4 rue Paul Dukas, 34090 Montpellier
